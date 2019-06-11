@@ -1,0 +1,138 @@
+.head{
+	width: 100%;
+	height:8.125rem;
+	background-color: indianred;
+	font-size: 2.2rem;
+	color: white;
+	font-family: 宋体;
+}
+body{
+	margin: 0rem;
+}
+.sp{
+	position: relative;
+	top: 2.775rem;
+	left: 1.5rem;
+}
+.kuang{
+	display: inline-block;
+	vertical-align: top;
+	width:18.75rem;
+	height: 8rem;
+	padding-left: 0.36rem;
+	margin-left: 6rem;
+}
+.kuang input{
+	border-radius: 1.25rem;
+	width: 20rem;
+	height: 4.4rem;
+	margin-top: 1.8rem;
+	background-color: firebrick;
+	border: none;
+	font-size: 2.2rem;
+	color: #FFFFFF;
+	padding-left: 5.5rem;
+}
+.head img{
+	position: absolute;
+	top: 3.8rem;
+	left: 15.5rem
+}
+.kuang img{
+	position: absolute;
+	left: 22rem;
+	top: 2.8rem;
+}
+.wo{
+	display: inline;
+	position: relative;
+	left: 14.5rem;
+	top: 2.9rem;
+}
+.wo img{
+	position: absolute;
+	left: 25rem;
+}
+.img{
+	width: 100%;
+}
+.eight{
+	width: 100%;
+	height: 30rem;
+	background-color:lightgrey;
+}
+a{
+	color: #000000;
+}
+.s{
+	width: 24.7%;
+	height: 12.5rem;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	font-size: 1.8rem;
+}
+.ss-1{
+	width: 6.25rem;
+	height: 6.25rem;
+	border-radius: 50%;
+	margin-top: 2rem;
+	margin-left: 4.25rem;
+	background-color: coral;
+}
+.ss-2{
+	width: 6.25rem;
+	height: 6.25rem;
+	border-radius: 50%;
+	margin-top: 2rem;
+	margin-left: 4.25rem;
+	background-color: violet;
+}
+.ss-3{
+	width: 6.25rem;
+	height: 6.25rem;
+	border-radius: 50%;
+	margin-top: 2rem;
+	margin-left: 4.25rem;
+	background-color: skyblue;
+}
+.ss-4{
+	width: 6.25rem;
+	height: 6.25rem;
+	border-radius: 50%;
+	margin-top: 2rem;
+	margin-left: 4.25rem;
+	background-color: royalblue;
+}
+.ss-5{
+	width: 6.25rem;
+	height: 6.25rem;
+	border-radius: 50%;
+	margin-top: 2rem;
+	margin-left: 4.25rem;
+	background-color: indianred;
+}
+.ss-6{
+	width: 6.25rem;
+	height: 6.25rem;
+	border-radius: 50%;
+	margin-top: 2rem;
+	margin-left: 4.25rem;
+	background-color: #87CEEB;
+}
+.ss-7{
+	width: 6.25rem;
+	height: 6.25rem;
+	border-radius: 50%;
+	margin-top: 2rem;
+	margin-left: 4.25rem;
+	background-color: orangered;
+}
+.ss-8{
+	width: 6.25rem;
+	height: 6.25rem;
+	border-radius: 50%;
+	margin-top: 2rem;
+	margin-left: 4.25rem;
+	background-color: #4169E1;
+}
